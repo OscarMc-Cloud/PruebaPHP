@@ -1,3 +1,2 @@
-<?php
-echo"hola mundo";
+<?php header("Location: /prueba.html");?>
 ?>
